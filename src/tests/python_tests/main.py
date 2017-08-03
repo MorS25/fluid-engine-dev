@@ -13,6 +13,7 @@ from bounding_box_tests import *
 from face_centered_grid_tests import *
 from flip_solver_tests import *
 from physics_animation_tests import *
+from sph_system_data_tests import *
 from sphere_tests import *
 from vector_tests import *
 from quaternion_tests import *
